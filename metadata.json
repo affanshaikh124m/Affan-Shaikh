@@ -1,0 +1,6 @@
+{
+  "name": "MuniRoad QR - Smart Municipal Road Infrastructure System",
+  "description": "QR-based municipal road infrastructure monitoring, citizen defect reporting with AI photo analysis, IoT telemetry, and maintenance lifecycle management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
